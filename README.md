@@ -106,7 +106,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/gargouri-ahmed/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Ahmed Gargouri.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:Ahmed-Gargouri.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -121,8 +121,8 @@
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:ahmed_gargouri@outlook.com" target="_blank">
+<img src="https://img.shields.io/badge/outlook:  Ahmed_Gargouri-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -135,12 +135,8 @@
 <br>
 <br>
 
-<div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
-</div>
-<br>
 <br>
 <br>
 <br>
@@ -149,6 +145,4 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-Last Edited on: 09/11/2022
