@@ -42,12 +42,12 @@
     ![React](https://img.shields.io/badge/React%20-%232370ED.svg?style=for-the-badge&logo=react&logoColor=white)
     ![NextJs](https://img.shields.io/badge/NextJs%20-%2300599C.svg?style=for-the-badge&logo=next%2B%2B&logoColor=white)
     ![Symfony](https://img.shields.io/badge/Symfony%20-%2314354C.svg?style=for-the-badge&logo=symfony&logoColor=white)
-    ![Tailwind](https://img.shields.io/badge/Tailwind%20-%23143149.svg?style=for-the-badge&logo=tailwind&logoColor=white)
+    ![Tailwind](https://img.shields.io/badge/Tailwind%20-%23143149.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
     ![Express](https://img.shields.io/badge/Express%20-%23143756.svg?style=for-the-badge&logo=express&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB%20-%23143756.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![Postegres](https://img.shields.io/badge/Postegres%20-%23143756.svg?style=for-the-badge&logo=postegres&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/Postegres%20-%23143756.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
     ![.NET](https://img.shields.io/badge/.NET%20-%23143756.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-    ![Socket.io](https://img.shields.io/badge/SocketIO%20-%23143756.svg?style=for-the-badge&logo=socketio&logoColor=white)
+    ![Socket.io](https://img.shields.io/badge/SocketIO%20-%23143756.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 
 
 
