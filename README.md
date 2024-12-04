@@ -26,28 +26,29 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C](https://img.shields.io/badge/C%20-%2314354C.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2314354C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%23143149.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23143756.svg?style=for-the-badge&logo=javascript&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP%20-%23143493.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![SQL](https://img.shields.io/badge/SQL%20-%23143249.svg?style=for-the-badge&logo=sql&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL%20-%2314354C.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
   
 
 <br>   
     
 - **Technologies and Frameworks**:
-    ![React](https://img.shields.io/badge/React%20-%232370ED.svg?style=for-the-badge&logo=react&logoColor=white)
-    ![NextJs](https://img.shields.io/badge/NextJs%20-%2300599C.svg?style=for-the-badge&logo=next%2B%2B&logoColor=white)
+    ![React](https://img.shields.io/badge/React%20-%2314354C.svg?style=for-the-badge&logo=react&logoColor=white)
+    ![NextJs](https://img.shields.io/badge/NextJs%20-%2314354C.svg?style=for-the-badge&logo=next.js%2B%2B&logoColor=white)
     ![Symfony](https://img.shields.io/badge/Symfony%20-%2314354C.svg?style=for-the-badge&logo=symfony&logoColor=white)
-    ![Tailwind](https://img.shields.io/badge/Tailwind%20-%23143149.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-    ![Express](https://img.shields.io/badge/Express%20-%23143756.svg?style=for-the-badge&logo=express&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB%20-%23143756.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/Postegres%20-%23143756.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-    ![.NET](https://img.shields.io/badge/.NET%20-%23143756.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-    ![Socket.io](https://img.shields.io/badge/SocketIO%20-%23143756.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+    ![Tailwind](https://img.shields.io/badge/Tailwind%20-%2314354C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+    ![Express](https://img.shields.io/badge/Express%20-%2314354C.svg?style=for-the-badge&logo=express&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2314354C.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/Postegres%20-%2314354C.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+    ![.NET](https://img.shields.io/badge/.NET%20-%2314354C.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+    ![Socket.io](https://img.shields.io/badge/SocketIO%20-%2314354C.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+    ![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui%20-%2314354C.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 
 
 
