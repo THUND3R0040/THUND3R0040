@@ -39,6 +39,7 @@
 <br>   
     
 - **Technologies and Frameworks**:
+  <br>
     ![React](https://img.shields.io/badge/React%20-%2314354C.svg?style=for-the-badge&logo=react&logoColor=white)
     ![NextJs](https://img.shields.io/badge/NextJs%20-%2314354C.svg?style=for-the-badge&logo=next.js%2B%2B&logoColor=white)
     ![Symfony](https://img.shields.io/badge/Symfony%20-%2314354C.svg?style=for-the-badge&logo=symfony&logoColor=white)
