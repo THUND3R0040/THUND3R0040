@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Ahmed Gargouri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer;Software+Engineering+Student;Data+Enthusiast;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -29,14 +29,28 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%23143149.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23143756.svg?style=for-the-badge&logo=javascript&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP%20-%23143493.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL%20-%23143249.svg?style=for-the-badge&logo=sql&logoColor=white)
+
+  
 
 <br>   
     
-- **Front-End Development**:
+- **Technologies and Frameworks**:
+    ![React](https://img.shields.io/badge/React%20-%232370ED.svg?style=for-the-badge&logo=react&logoColor=white)
+    ![NextJs](https://img.shields.io/badge/NextJs%20-%2300599C.svg?style=for-the-badge&logo=next%2B%2B&logoColor=white)
+    ![Symfony](https://img.shields.io/badge/Symfony%20-%2314354C.svg?style=for-the-badge&logo=symfony&logoColor=white)
+    ![Tailwind](https://img.shields.io/badge/Tailwind%20-%23143149.svg?style=for-the-badge&logo=tailwind&logoColor=white)
+    ![Express](https://img.shields.io/badge/Express%20-%23143756.svg?style=for-the-badge&logo=express&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB%20-%23143756.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Postegres](https://img.shields.io/badge/Postegres%20-%23143756.svg?style=for-the-badge&logo=postegres&logoColor=white)
+    ![.NET](https://img.shields.io/badge/.NET%20-%23143756.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+    ![Socket.io](https://img.shields.io/badge/SocketIO%20-%23143756.svg?style=for-the-badge&logo=socketio&logoColor=white)
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 
 <br>
 
